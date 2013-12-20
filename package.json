@@ -1,5 +1,5 @@
 {
-  "name": "github-client",
+  "name": "gh-client",
   "version": "0.0.1",
   "description": "Minimal streaming client for the github API",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/derekr/github-client"
+    "url": "git://github.com/derekr/gh-client"
   },
   "keywords": [
     "github",
@@ -23,7 +23,7 @@
   "author": "Derek Reynolds <drk@diy.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/derekr/github-client/issues"
+    "url": "https://github.com/derekr/gh-client/issues"
   },
   "dependencies": {
     "hyperquest": "~0.1.8"

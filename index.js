@@ -58,7 +58,7 @@ module.exports = function (auth, version, host) {
         options.headers['accept-type'] = 'application/json';
 
         if (typeof options.headers['user-agent'] === 'undefined') {
-            options.headers['user-agent'] = 'github-client';
+            options.headers['user-agent'] = 'gh-client';
         }
 
         // Post data

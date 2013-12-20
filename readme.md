@@ -1,7 +1,7 @@
 # gh-client
 #### Minimal streaming client for the github API
 
-[![Build Status](https://travis-ci.org/derekr/github-client.png?branch=master)](https://travis-ci.org/derekr/github-client)
+[![Build Status](https://travis-ci.org/derekr/gh-client.png?branch=master)](https://travis-ci.org/derekr/gh-client)
 
 # Usage
 

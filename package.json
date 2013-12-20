@@ -1,0 +1,34 @@
+{
+  "name": "github-client",
+  "version": "0.0.0",
+  "description": "Minimal streaming client for the github API",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derekr/github-client"
+  },
+  "keywords": [
+    "github",
+    "github-client",
+    "github",
+    "api",
+    "api",
+    "git",
+    "repo",
+    "issues"
+  ],
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekr/github-client/issues"
+  },
+  "dependencies": {
+    "hyperquest": "~0.1.8"
+  },
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}

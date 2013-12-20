@@ -5,6 +5,7 @@
 
 # Usage
 
+```js
 var github = require('github-client')();
 var request = github({
     method: 'GET',
@@ -14,3 +15,4 @@ var request = github({
 request.on('error', function (err) {
     // Oh noes! 
 });
+```

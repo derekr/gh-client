@@ -16,3 +16,15 @@ request.on('error', function (err) {
     // Oh noes! 
 });
 ```
+
+## Callback
+
+```js
+var github = require('gh-client')();
+var request = github({
+    method: 'GET',
+    uri:    '/users/octocat'
+}, function (err, body) {
+    console.log(body);
+});
+```
